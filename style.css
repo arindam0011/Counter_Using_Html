@@ -1,0 +1,28 @@
+body>*{
+    color:white; 
+    margin: 0;
+}
+
+body{
+    background-color: black !important;
+    padding: 20px;
+    box-sizing: border-box;
+}
+#clear{
+    border: 2px solid gray;
+}
+.btn{
+    width: 120px;
+}
+#counter{
+    border-bottom: 2px solid gray;
+    width:175px;
+    padding-bottom: 10px;
+}
+#h1{
+    font-weight: 400;
+}
+#caution{
+    padding-top: 10px;
+    height: 20px;
+}
