@@ -12,17 +12,23 @@ body{
     border: 2px solid gray;
 }
 .btn{
-    width: 120px;
+    width: 200px;
+    font-weight: 400;
+    height: 50px;
 }
 #counter{
     border-bottom: 2px solid gray;
-    width:175px;
-    padding-bottom: 10px;
+    width:340px;
+    padding-bottom: 30px;
+    font-size: 30px;
 }
 #h1{
     font-weight: 400;
+    font-size: 70px;
 }
 #caution{
-    padding-top: 10px;
+    
+    padding: 30px 0px;
     height: 20px;
+    font-size: 30px;
 }
